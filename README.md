@@ -37,7 +37,7 @@ Welcome students! In this assignment, you'll analyze a provided `.pcap` (packet 
 
 ## 📥 Submission Instructions
 
-Please submit your answers in a text or PDF file, and if possible, include screenshots of the packets you identified for questions 2 and 3.
+Please submit your answers in a text or PDF file, and include screenshots of the packets you identified for questions 2 and 3.
 
 ---
 
