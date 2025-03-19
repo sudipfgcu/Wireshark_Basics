@@ -7,9 +7,8 @@ Welcome students! In this assignment, you'll analyze a provided `.pcap` (packet 
 ## 📂 Instructions
 
 1. Open the `.pcap` file using **Wireshark**.
-2. Apply the following display filters in the top filter bar:
-   - `dns` → to view all Domain Name System (DNS) queries and responses.
-   - `tls` → to view all Transport Layer Security (TLS/SSL) traffic.
+2. Apply the required display filters in the top filter bar:
+  
 
 ---
 
@@ -19,10 +18,10 @@ Welcome students! In this assignment, you'll analyze a provided `.pcap` (packet 
    *(Tip: Look at the packet list area or bottom status bar.)*
 
 2. **Identify 3 packets that are potentially suspicious or problematic**  
-   *(Hint: Look for the packets in red color.)*
+   
 
 3. **Which packet number corresponds to the request for `chatgpt.com`?**  
-   *(Hint: Same as above – check DNS queries or follow TLS packets related to that domain.)*
+   
 
 ---
 
