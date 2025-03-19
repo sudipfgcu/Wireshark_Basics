@@ -18,8 +18,8 @@ Welcome students! In this assignment, you'll analyze a provided `.pcap` (packet 
 1. **How many packets are there in total?**  
    *(Tip: Look at the packet list area or bottom status bar.)*
 
-2. **Which packet number corresponds to the request for `www.threatdragon.com`?**  
-   *(Hint: Look in the DNS packets for a query that mentions `www.threatdragon.com`.)*
+2. **Identify 3 packets that are potentially suspicious or problematic**  
+   *(Hint: Look for the packets in red color.)*
 
 3. **Which packet number corresponds to the request for `chatgpt.com`?**  
    *(Hint: Same as above – check DNS queries or follow TLS packets related to that domain.)*
